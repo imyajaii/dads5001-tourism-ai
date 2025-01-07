@@ -97,7 +97,7 @@ def integrate_openai(data):
     st.write(response.choices[0].message['content'].strip())
 
     # User input for specific analysis
-    st.header('Custom Analysis')
+    st.header('Tourist Analysis')
     user_question = st.text_input("Ask a question about the tourism data:")
 
     if user_question:
