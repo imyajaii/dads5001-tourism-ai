@@ -76,7 +76,7 @@ Show dataset of Thailand Domestic Tourism 2019-2022
 #### Insights
 <span style="background-color:rgb(102, 255, 0)">Foreign vs. Domestic Tourists:</span> The presence of separate columns for foreign and Thai tourists indicates the importance of both markets to Thailand's tourism indoustry.
 
-### Regional Distribution
+### Regional Distribution Menu
 #### Tourists by region data
 ![Run Result](img/tourist_by_region_table.png)
 
@@ -86,7 +86,7 @@ Show dataset of Thailand Domestic Tourism 2019-2022
 #### Region distribution visualization
 ![Run Result](img/region_distribute_visualization.png)
 
-### Top Performing Provinces
+### Top Performing Provinces Menu
 #### Top 10 Provinces by Tourist Numbers
 <b>Data</b>
 ![Run Result](img/top_tourist_by_province_table.png)
@@ -105,7 +105,7 @@ Show dataset of Thailand Domestic Tourism 2019-2022
 #### Insights
 <span style="background-color:rgb(102, 255, 0)">Bangkok Dominance:</span> The capital city is the primary driver of Thailand's domestic tourism, leading in both tourist numbers and revenue generation.
 
-### Covid Analysis Insights (2019-2023)
+### Covid Analysis Insights (2019-2023) Menu
 #### Overall Trends
 ![Run Result](img/total_tourist_by_year_graph.png)
 
@@ -140,7 +140,7 @@ Show dataset of Thailand Domestic Tourism 2019-2022
 
 6. Consider developing new tourism products or experiences that cater to changed traveler preferences post-pandemic.
 
-### Covid Recovery: Tourism Trends and Forecast
+### Covid Recovery: Tourism Trends and Forecast Menu
 This application analyzes historical tourism data from 2019 to 2023 and forecasts trends for 2024–2026.
 
 #### Historical Data (2019–2023)
@@ -155,7 +155,7 @@ This application analyzes historical tourism data from 2019 to 2023 and forecast
 #### Revenue Forecast
 ![Run Result](img/revenue_forecast_graph.png)
 
-#### AI Integration
+#### AI Integration Menu
 Uses Exponential Smoothing for accurate time-series forecasting.
 
 ##### Exponential Smoothing
