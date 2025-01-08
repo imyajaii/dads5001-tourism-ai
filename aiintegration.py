@@ -38,7 +38,7 @@ def integrate_openai(data):
 
     # AI-powered insights
     st.header('OpenAI Integration')
-    st.write("Integrate to openai api to anlyze insights the Thailand domestic tourism data set.")
+    st.write("Integration with OpenAI's GPT-3.5-turbo model for data analysis")
 
     data = preprocessing_data(data)
     st.dataframe(data)
