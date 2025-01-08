@@ -199,7 +199,7 @@ This application analyzes historical tourism data from 2019 to 2023 and forecast
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### AI Integration Menu
+#### AI Integration
 Uses Exponential Smoothing for accurate time-series forecasting.
 
 ##### Exponential Smoothing
